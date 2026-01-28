@@ -1,2 +1,1 @@
-# contract
-optiview contract
+This is the contract code for OptiVirw, mainly used for user check-ins and user-to-friend invitations, it has been deployed on BNB Chain.
